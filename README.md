@@ -21,6 +21,13 @@ React é uma biblioteca criada pelo Facebook, que tem como objetivo a criação 
 - [React - W3 schools](https://www.w3schools.com/REACT/react_exercises.asp):  Praticar fundamentos 
 - [React - FreeCodeCamp](https://www.freecodecamp.org/news/tag/react/):  Artigos e novidades da biblioteca 
 
+
+---  
+
+### 💡 Comandos úteis
+  pnpm create vite
+  pnpm add axios
+  
 ---  
 
 ### 💡 Dicas
