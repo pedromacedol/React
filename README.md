@@ -25,8 +25,11 @@ React é uma biblioteca criada pelo Facebook, que tem como objetivo a criação 
 ---  
 
 ### 💡 Comandos úteis
-  pnpm create vite
-  pnpm add axios
+
+  ``` 
+    pnpm create vite
+    pnpm add axios
+   ```
   
 ---  
 
